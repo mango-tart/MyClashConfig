@@ -1,8 +1,7 @@
-# ClashVerge检测IP
+# 检测IP
 DOMAIN-SUFFIX,ipwho.is
 
 # PJSK日服
 # DOMAIN-SUFFIX,unity3d.com 可以直连
 DOMAIN-SUFFIX,colorfulpalette.org
-# DOMAIN-SUFFIX,i18n-pglstatp.com
 DOMAIN-SUFFIX,isnssdk.com
