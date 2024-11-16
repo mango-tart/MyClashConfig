@@ -2,6 +2,6 @@
 DOMAIN-SUFFIX,ipwho.is
 
 # PJSK日服
-# DOMAIN-SUFFIX,unity3d.com 可以直连
 DOMAIN-SUFFIX,colorfulpalette.org
 DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,googleusercontent.com
