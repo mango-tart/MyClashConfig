@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,colorfulpalette.org
 DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,googleusercontent.com
+
+# 谷歌
+DOMAIN-SUFFIX,googleapis.cn
