@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,googleusercontent.com
 
 # 谷歌
 DOMAIN-SUFFIX,googleapis.cn
+
+# cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,clash.unripe.cn
